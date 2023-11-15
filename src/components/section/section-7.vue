@@ -4,7 +4,7 @@ export default {
 
     data() {
         return {
-            message: 'ciao'
+            message: 'bella'
         }
     }
 }
