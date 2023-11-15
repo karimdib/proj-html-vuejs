@@ -11,9 +11,9 @@ export default {
 </script>
 
 <template>
-    <div>
-        <div>{{ message }}</div>
-    </div>
+    <header>
+
+    </header>
 </template>
 
 <style></style>

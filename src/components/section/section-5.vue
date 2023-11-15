@@ -12,7 +12,6 @@ export default {
 
 <template>
     <div>
-        <div>{{ message }}</div>
     </div>
 </template>
 

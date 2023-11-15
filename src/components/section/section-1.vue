@@ -12,8 +12,7 @@ export default {
 
 <template>
     <div>
-        <h1>prova scss</h1>
-        <div>{{ message }}</div>
+
     </div>
 </template>
 
