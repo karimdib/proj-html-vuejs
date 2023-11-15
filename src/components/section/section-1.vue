@@ -12,8 +12,9 @@ export default {
 
 <template>
     <div>
+        <h1>prova scss</h1>
         <div>{{ message }}</div>
     </div>
 </template>
 
-<style></style>
+<style lang="scss" scoped></style>

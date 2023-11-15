@@ -28,6 +28,7 @@ export default {
 
 <template>
     <div>
+
         <div>{{ message }}</div>
         <sectionOne />
         <sectionTwo />
@@ -40,4 +41,4 @@ export default {
     </div>
 </template>
 
-<style></style>
+<style lang="scss" scoped></style>

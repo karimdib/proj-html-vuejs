@@ -23,8 +23,11 @@ export default {
     <PageHeader />
     <PageMain />
     <PageFooter />
+    <p>cf</p>
 
   </div>
 </template>
 
-<style></style>
+<style lang="scss">
+@use './style/general.scss' as *;
+</style>
