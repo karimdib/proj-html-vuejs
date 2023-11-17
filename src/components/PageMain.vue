@@ -28,8 +28,6 @@ export default {
 
 <template>
     <div>
-
-        <div>{{ message }}</div>
         <sectionOne />
         <sectionTwo />
         <sectionThree />
@@ -37,8 +35,11 @@ export default {
         <sectionFive />
         <sectionSix />
         <sectionSeven />
-
     </div>
 </template>
 
-<style lang="scss" scoped></style>
+<style lang="scss" scoped>
+.ciao {
+    color: red;
+}
+</style>

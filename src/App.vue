@@ -19,15 +19,18 @@ export default {
 </script>
 
 <template>
-  <div>
+  <div class="font">
     <PageHeader />
     <PageMain />
     <PageFooter />
-    <p>cf</p>
-
   </div>
 </template>
 
 <style lang="scss">
 @use './style/general.scss' as *;
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+.font {
+  font-family: 'Roboto', sans-serif;
+}
 </style>
